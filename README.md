@@ -9,9 +9,7 @@
 4. Auto detect streaming media.
 5. subtitle download supported.
 ## How to use
-
-<video align="center" src="https://raw.githubusercontent.com/684102/HDS-HLS-Video-Downloader/master/how_to_install.mp4" controls></video>
-
+[![How to install](https://i.imgur.com/Nf69NSQ.png)](https://vidapi.github.io/?uri=raw.githubusercontent.com/684102/HDS-HLS-Video-Downloader/master/how_to_install.mp4&size=1080&autoplay=true "How to install")
 I. Download crx files , install to Chrome/Coccoc/Cent...  ``chrome://extensions`` 
 
 
