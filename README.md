@@ -12,7 +12,7 @@
 
 <p align="center">
 
-[![How to install](https://i.imgur.com/Nf69NSQ.png)](https://vidapi.github.io/?uri=raw.githubusercontent.com/684102/HDS-HLS-Video-Downloader/master/how_to_install.mp4&size=1080&autoplay=true "How to install")
+[![How to install](https://i.imgur.com/Nf69NSQ.png)](https://vidapi.github.io/?uri=raw.githubusercontent.com/684102/HDS-HLS-Video-Downloader/master/how_to_install.mp4&size=360&autoplay=true "How to install")
 
 </p>
 
